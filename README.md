@@ -1,7 +1,7 @@
-# ComeFundMe
+# Governor-Election
 
 ## Description
-This is a very simple crowdfunding dapp where users can:
+This is a very simple voting dapp where users can:
 * See Campaigns created by other users
 * Donate to a campaign
 * Create their own campaign
